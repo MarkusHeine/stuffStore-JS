@@ -44,5 +44,5 @@ function checkSwipe() {
     } else {
         swipe = false;
     }
-    console.log(swipe, swipeDirection);
+    // console.log(swipe, swipeDirection);
 }
