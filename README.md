@@ -2,6 +2,6 @@
 
 usefull JavaScript Code
 
-###simpleSwipeDetection.js
+#### simpleSwipeDetection.js
 
 is a program for a simple swipe detection on mobile devices
